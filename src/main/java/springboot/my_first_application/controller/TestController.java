@@ -8,7 +8,7 @@ public class TestController {
 
 	@RequestMapping("/")
 	public String main() {
-		return "Spring boot is working!";	
+		return "Spring boot is working is working is working!";
 	}
 	
 }
